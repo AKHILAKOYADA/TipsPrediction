@@ -21,4 +21,5 @@ before we run we will load the labraries which is required in the frontend folde
 # after loading the libraries we ran the app.py in frontend through streamlit
 # to run streamlit we use dtreamlit run file-name.py
 # Push to github 
+# git Init
 
